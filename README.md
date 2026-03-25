@@ -60,6 +60,6 @@ These skills are the free teaser. The cohort gives you:
 
 ## About
 
-Built by [Andrew Crider](https://generatejarvis.com) — data strategist, AI systems builder, Fairhope Hackathon winner. I've analyzed 200+ businesses for automation waste and built the frameworks in this repo for my own daily use.
+Built by [Andrew Crider](https://www.linkedin.com/in/andrewcrider/) — data strategist, AI systems builder, Fairhope Hackathon winner. I've analyzed 200+ businesses for automation waste and built the frameworks in this repo for my own daily use.
 
 The system you're about to install is the same one I run every day.
