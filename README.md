@@ -25,7 +25,7 @@ Use them as-is. When you're ready to go deeper, the cohort builds the full syste
 ### Claude Code (recommended)
 
 ```bash
-git clone https://github.com/generatejarvis/skills.git ~/.claude/plugins/generate-jarvis-skills
+git clone https://github.com/AndrewCrider/generativejarvis-skills.git ~/.claude/plugins/generate-jarvis-skills
 ```
 
 Then in Claude Code:
