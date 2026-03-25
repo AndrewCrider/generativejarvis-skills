@@ -1,0 +1,33 @@
+{
+  "name": "generate-jarvis-skills",
+  "version": "1.0.0",
+  "description": "5 free AI OS skills from Generate Jarvis — diagnose your setup, find your saboteur, build your knowledge brain, and start your weekly planning ritual.",
+  "homepage": "https://generatejarvis.com/cohort.html",
+  "skills": [
+    {
+      "name": "ai-os-audit",
+      "description": "Score how generic vs. calibrated your AI setup is. 10 questions, a grade, and 3 specific fixes.",
+      "prompt": "skills/ai-os-audit/prompt.md"
+    },
+    {
+      "name": "saboteur-scan",
+      "description": "Name your top productivity saboteur and see exactly how it shows up in your AI workflows.",
+      "prompt": "skills/saboteur-scan/prompt.md"
+    },
+    {
+      "name": "brain-starter",
+      "description": "Audit your folder structure against PARA and get a copy-paste starter template.",
+      "prompt": "skills/brain-starter/prompt.md"
+    },
+    {
+      "name": "rules-starter",
+      "description": "Answer 6 questions and get a ready-to-paste .cursorrules file or AI system prompt.",
+      "prompt": "skills/rules-starter/prompt.md"
+    },
+    {
+      "name": "weekly-os",
+      "description": "Run a 5-minute AI-powered weekly planning ritual with saboteur awareness and a 3-item must-do list.",
+      "prompt": "skills/weekly-os/prompt.md"
+    }
+  ]
+}
