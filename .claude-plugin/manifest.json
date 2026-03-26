@@ -2,7 +2,7 @@
   "name": "generate-jarvis-skills",
   "version": "1.0.0",
   "description": "5 free AI OS skills from Generate Jarvis — diagnose your setup, find your saboteur, build your knowledge brain, and start your weekly planning ritual.",
-  "homepage": "https://generatejarvis.com/cohort.html",
+  "homepage": "https://generativejarvis.com/cohort.html",
   "skills": [
     {
       "name": "ai-os-audit",

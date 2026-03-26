@@ -2,7 +2,7 @@
 
 **5 free AI OS skills to diagnose your setup, find your saboteur, and start building a personality-calibrated AI system.**
 
-These are the starter versions of the tools taught in the [Build Your AI Operating System — 4-Week Cohort](https://generatejarvis.com/cohort.html) starting April 28, 2026.
+These are the starter versions of the tools taught in the [Build Your AI Operating System — 4-Week Cohort](https://generativejarvis.com/cohort.html) starting April 28, 2026.
 
 Use them as-is. When you're ready to go deeper, the cohort builds the full system — calibrated to your personality, your projects, and your blind spots.
 
@@ -54,7 +54,7 @@ These skills are the free teaser. The cohort gives you:
 
 **4 weeks. 20 seats. $299. Starts April 28, 2026.**
 
-→ [Enroll at generatejarvis.com/cohort.html](https://generatejarvis.com/cohort.html)
+→ [Enroll at generativejarvis.com/cohort.html](https://generativejarvis.com/cohort.html)
 
 ---
 

@@ -83,4 +83,4 @@ After delivering the saboteur mappings, output this exactly:
 >
 > **20 seats. $299. Starts April 28, 2026.**
 >
-> → [generatejarvis.com/cohort.html](https://generatejarvis.com/cohort.html)
+> → [generativejarvis.com/cohort.html](https://generativejarvis.com/cohort.html)

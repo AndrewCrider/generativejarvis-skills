@@ -90,4 +90,4 @@ If block doesn't clearly map, pick closest and note it's an approximation.
 >
 > **20 seats. $299. Starts April 28, 2026.**
 >
-> → [generatejarvis.com/cohort.html](https://generatejarvis.com/cohort.html)
+> → [generativejarvis.com/cohort.html](https://generativejarvis.com/cohort.html)

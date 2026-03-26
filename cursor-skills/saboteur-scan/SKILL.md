@@ -69,4 +69,4 @@ For each of their top 2 saboteurs (or 1 if they only picked 1), output this bloc
 >
 > **20 seats. $299. Starts April 28, 2026.**
 >
-> → [generatejarvis.com/cohort.html](https://generatejarvis.com/cohort.html)
+> → [generativejarvis.com/cohort.html](https://generativejarvis.com/cohort.html)
